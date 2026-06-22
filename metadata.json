@@ -1,0 +1,6 @@
+{
+  "name": "Flixora Assistant",
+  "description": "A real-time, background-running AI voice assistant powered by Gemini Live. Featuring wake-word activation, native device control, and an immersive futuristic UI.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
